@@ -538,6 +538,13 @@ footer li {
         font-size: 70%;
     }
 
+    .mynavbar .offcanvas {
+    height: 100vh;
+    width: 250px;
+    background : var(--gelap);
+    z-index: 1;
+    }
+
     .home .couple img {
         display: none;
     }
