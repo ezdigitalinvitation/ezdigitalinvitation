@@ -531,14 +531,15 @@ footer li {
 }
 
 /* media phone */
-@media (max-width : 576px){
+@media (max-width : 576px)
+    
     html {
         font-size: 60%;
     }
 
     .mynavbar .offcanvas {
         height: 100vh;
-        width: 100vh;
+        width: 200px;
     }
 
     .mynavbar .navbar-nav a {
