@@ -501,7 +501,6 @@ footer li {
 }
 /* media tablet */
 @media (max-width : 768px){
-   @media (max-width : 576px){
      html {
         font-size: 65%;
     }
@@ -531,7 +530,7 @@ footer li {
 }
 
 /* media phone */
-@media (max-width : 576px)
+@media (max-width : 720px)
     
     html {
         font-size: 60%;
