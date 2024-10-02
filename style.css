@@ -545,6 +545,11 @@ footer li {
     z-index: 1;
     }
 
+    .mynavbar .offcanvas a{
+        color : var(--cream);
+        border-bottem : 1px solid var(--cream)
+    }
+
     .home .couple img {
         display: none;
     }
