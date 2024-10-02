@@ -542,8 +542,12 @@ footer li {
     height: 100vh;
     width: 250px;
     background : var(--gelap);
-    z-index: 1;
-    float: right;
+    }
+
+    .mynavbar .offcanvas a:hover {
+        background: var(--abu);
+        border-radius: 0.5rem;
+        transition: 1s;
     }
 
     .mynavbar .offcanvas a {
