@@ -530,10 +530,14 @@ footer li {
 }
 
 /* media phone */
-@media (max-width : 460px)
+@media (max-width : 576px)
     
     html {
-        font-size: 60%;
+        font-size: 70%;
+    }
+
+    .mynavbar {
+        width: auto;
     }
 
     .mynavbar .navbar-nav a {
