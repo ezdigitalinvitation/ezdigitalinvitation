@@ -543,6 +543,7 @@ footer li {
     width: 250px;
     background : var(--gelap);
     z-index: 1;
+    float: right;
     }
 
     .mynavbar .offcanvas a {
