@@ -95,6 +95,7 @@ body {
     margin-top: -6rem;
     padding-top: 15rem;
     padding-bottom: 5rem;
+    display: flex;
 }
 
 .home h2, 
