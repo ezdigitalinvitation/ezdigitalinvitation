@@ -536,6 +536,11 @@ footer li {
         font-size: 60%;
     }
 
+    .mynavbar .offcanvas {
+        height: 100vh;
+        width: 50%;
+    }
+
     .mynavbar .navbar-nav a {
         color: var(--cream);
         font-size: 2.1rem;
