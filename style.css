@@ -502,6 +502,36 @@ footer li {
 /* media tablet */
 @media (max-width : 768px){
    @media (max-width : 576px){
+     html {
+        font-size: 65%;
+    }
+    
+    
+    .simply-countdown > .simply-section {
+        padding: 60px;
+        margin: 5px;
+    }
+    
+    .mynavbar .nav-link {
+        font-size: 2rem;
+        text-align: center;
+    }
+    
+    .sticky-top {
+        overflow: hidden;
+    }
+    
+    .timeline li .timeline-image {
+        width: 140px;
+        height: 140px;
+    }
+
+    
+    
+}
+
+/* media phone */
+@media (max-width : 576px){
     html {
         font-size: 60%;
     }
@@ -557,4 +587,3 @@ footer li {
     }
 
 }
-
