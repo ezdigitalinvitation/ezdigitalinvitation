@@ -538,7 +538,7 @@ footer li {
 
     .mynavbar .offcanvas {
         height: 100vh;
-        width: auto;
+        width: 100%;
     }
 
     .mynavbar .navbar-nav a {
